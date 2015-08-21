@@ -1,2 +1,2 @@
 "Fcilty_typ","State","Fcilty_nam","Shp_num_an","Shp_centre","Street_add","Locality","Postcode","Hrs_of_bus","Wheelchair","Display_wd","Fcilty_typ_2","Xcoord","Ycoord","uuid","result","Audio"
-"MO","NSW","John Smith","123 Test St.","Suite #320","Costa Mesa, CA 92626","818-858-5883","","9:00AM-6:00PM Monday to Friday","YES","1.5","http://www.johnsmith.com","33.838305","-117.912741","67","999",""
+"MO","NSW","John Smith","123 Test St.","Suite #320","Costa Mesa, CA 92626","818-858-5883","","9:00AM-6:00PM Monday to Friday","YES","1.5","http://www.johnsmith.com","-117.912741","33.838305","67","999",""
