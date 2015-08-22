@@ -1,3 +1,4 @@
 "Fcilty_typ","State","Fcilty_nam","Shp_num_an","Shp_centre","Street_add","Locality","Postcode","Hrs_of_bus","Wheelchair","Display_wd","Fcilty_typ_2","Xcoord","Ycoord","uuid","result","Audio"
 "MO","NSW","John Smith","123 Test St.","Suite #320","Anaheim, CA 92805","818-858-5883","","9:00AM-6:00PM Monday to Friday","YES","1.5","http://www.johnsmith.com","-117.912741","33.838305","67","999",""
-"MO","NSW","Stephen Curry","8973 Ventura Blvd.","Suite #100","Los Angeles, CA 91367","310-252-6987","","9:00AM-6:00PM Monday to Friday","YES","1.5","http://www.johnsmith.com","-118.601704","34.181382","69","999",""
+"MO","NSW","Steph Curry","8973 Ventura Blvd.","Suite #100","Los Angeles, CA 91367","310-252-6987","","9:00AM-6:00PM Monday to Friday","YES","1.5","http://www.johnsmith.com","-118.601704","34.181382","69","999",""
+"MO","NSW","Josh Williams","36458 Main St.","Suite #200","Los Angeles, CA 90028","310-252-6987","","9:00AM-6:00PM Monday to Friday","YES","1.5","http://www.johnsmith.com"," -118.333648","34.098408","69","999",""
